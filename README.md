@@ -9,6 +9,12 @@ Python utility for exploring subnets
 This script was written for Python 2.7 and requires the ipaddr module
 `pip install ipaddr` (Requires sudo if not in virtualenv)
 
+### Contributing
+
+I am not accepting contributions just yet unless I personally know you. 
+
+Issues, however, are welcomed and encouraged.
+
 ### Usage
 
 This tool helps you determine how many smaller subnets can fit in a larger one, and those subnet's CIDRs.
