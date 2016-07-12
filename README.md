@@ -9,6 +9,8 @@ Python utility for exploring subnets
 This script was written for Python 2.7 and requires the ipaddr module
 `pip install ipaddr` (Requires sudo if not in virtualenv)
 
+As of now this script has only been tested on Debian Jessie (8).
+
 ### Contributing
 
 I am not accepting contributions just yet unless I personally know you. 
